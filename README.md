@@ -102,8 +102,6 @@ mechanics:
    forced into AI-only mode. Choice is the trust signal.
 
 ---
-AI USED:
-cursor: primary IDE
-claude: planning, slide deck, motion element
+
 
 See `RATIONALE.md` for the full design and GTM rationale.
